@@ -1,0 +1,5 @@
+debian/stsbl-iserv-file-distribution-bridge-exam/*
+debian/stsbl-iserv-file-distribution-bridge-exam.substvars
+debian/stsbl-iserv-file-distribution-bridge-exam.debhelper.log
+debian/files
+debian/debhelper-build-stamp
