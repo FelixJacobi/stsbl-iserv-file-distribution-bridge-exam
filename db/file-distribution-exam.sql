@@ -1,7 +1,7 @@
 /* 
  * The MIT License
  *
- * Copyright 2017 Felix Jacobi.
+ * Copyright 2018 Felix Jacobi.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@
 
 /**
  * Author:  Felix Jacobi
- * Created: 10.04.2017
+ * Created: 10.04.2018
  * License: MIT license <https://opensource.org/licenses/MIT> 
  */
 -- required for exam detection
